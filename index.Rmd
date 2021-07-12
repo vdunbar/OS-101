@@ -1,0 +1,44 @@
+--- 
+title: 'Open Science: An Introduction for Biology'
+date: "`r Sys.Date()`"
+documentclass: book
+description: An introductory, undergraduate text on the theory and principles of Open
+  Science, produced for for the Biology Department at the University of British Columbia,
+  Okanagan.
+bibliography: OS-Basics.bib
+biblio-style: apalike
+link-citations: yes
+site: bookdown::bookdown_site
+---
+
+# Welcome {-}
+
+This text was built to accompany the first year of the Biology undergraduate degree program at UBC Okanagan. It's aim is to introduce learners to core considerations in the pursuit of open scientific practices. It's divided into three sections, the first exploring principles and concepts associated with Open Science, the second and third looking at these principles and concepts in practice.
+
+Part 1, *Principles of Open Science* will be covered in BIOL 116. Parts 2 and 3, *Open Science in Action: Benefits* and *Open Science in Action: Challenges*, will be covered in BIOL 125.
+
+## Copyright {-}
+
+This work is licenced under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Please use the following for citing this document
+
+Hanna, S., Pither, J., Vis-Dunbar, M. (2021). *Open Science. An introduction for Biology*. [https://SOMETHING HERE]()
+
+All source files are available [here]().
+
+## Conventions {-}
+
+In text:
+
+* [hyperlinked terms]() take the user to a glossary in the UBCO Biology Department's [Procedures & Guidelines]() ebook.
+
+<br />
+
+Glyhps:
+
+|      |      |
+| ---- | ---- |
+| <img src = "images/png/beaker.png" width = 40px> | Lab exercises for discussion |
+| <img src = "images/png/check.png" width = 40px> | Examples of principles in practice |
+| <img src = "images/png/glass.png" width = 40px> | Highlight of UBC researcher engaged or participating in Open Science |
