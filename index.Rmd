@@ -8,7 +8,6 @@ description: An introductory, undergraduate text on the theory and principles of
 bibliography: OS-Basics.bib
 biblio-style: apalike
 link-citations: yes
-site: bookdown::bookdown_site
 ---
 
 # Welcome {-}
