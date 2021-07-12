@@ -1,0 +1,6 @@
+book_filename: "Open Science - An Introduction"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+output_dir: "docs"
